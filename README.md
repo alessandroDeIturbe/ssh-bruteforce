@@ -16,22 +16,10 @@
 
 ### 🏠 [Homepage](https://github.com/alessandroDeIturbe/ssh-bruteforce)
 
-## Install
-
-```sh
- 
-```
-
 ## Usage
 
 ```sh
- 
-```
-
-## Run tests
-
-```sh
- 
+ ./ssh-bruteforce
 ```
 
 ## Author
